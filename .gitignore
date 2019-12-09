@@ -1,1 +1,6 @@
+.env
 /nbproject/
+/uploads/
+/node_modules
+/app.log
+package-lock.json
